@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ibmsmalldoc PUBLIC "-//IBM//DTD DITA SmallDoc//EN" "ibmsmalldoc.dtd">
+<ibmsmalldoc xml:lang="en-us">
+<masthead>
+<mastpart>My sample small doc</mastpart>
+</masthead>
+<chapter href="batcleaning.dita">
+<topicref href="bats.dita" navtitle="Bats">
+<topicref href="batcleaning.dita" navtitle="Cleaning your fruit bat"/>
+</topicref>
+<topicref href="bats.dita" navtitle="Bats">
+<topicref href="batcleaning.dita" navtitle="Cleaning your fruit bat"/>
+</topicref>
+</chapter>
+</ibmsmalldoc>
